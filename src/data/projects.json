@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project fair",
+      "imageSrc": "projects/pf.png",
+      "description": " A full-stack web application that allows users to add, manage, and explore projects based on technologies used.                                                    ",
+      "skills": ["React","Express.js","MongoDB","Node.js"],
+      "demo": "https://project-fair-e2z9.vercel.app/",
+      "source": "https://github.com/bivin07/Project_fair"
+    },
+    {
+      "title": "Media Player App",
+      "imageSrc": "projects/mediaplayer.png",
+      "description": " Implemented features for viewing watch history anddeleting videos, improving user interaction andengagement",
+      "skills": ["React","JSON"],
+      "demo": "https://mp-app.vercel.app/",
+      "source": "https://github.com/bivin07/mp-app"
+    },
+    {
+      "title": "Flappy Bird game",
+      "imageSrc": "projects/flappy.png",
+      "description": "Implemented core gameplay elements including gravity,bird movement , pipe generation, collision detection",
+      "skills": ["React","css"  ] ,
+      "demo": "https://flappy-birdgame.vercel.app/",
+      "source": "https://github.com/bivin07/flappy-birdgame"
+    }
+  ]

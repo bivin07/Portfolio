@@ -1,0 +1,23 @@
+[
+    {
+      "role": "Bachelor of Computer Application",
+      "organisation": "MGU",
+      "startDate": "Aug, 2021",
+      "endDate": "Aprl,2024",
+      "experiences": [],
+      "imageSrc": "history/mg.jpg"
+    },
+    {
+      "role": "ME(A)RN Stack intern",
+      "organisation": "Luminar Technolab",
+      "startDate": "june,2024",
+      "endDate": "Present",
+      "experiences": ["Worked on React projects","Built interactive responsive user interfaces "," Developed RESTful APIs with Node.js and Express.js"],
+
+
+      "imageSrc": "history/luminar.jpg"
+    }
+  
+ 
+  
+  ]
